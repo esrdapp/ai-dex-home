@@ -158,6 +158,30 @@ body {
   width: 30px;
   height: 7px;
 }
+ 
+.social-media_link {
+    color: #fff;
+    font-size: 18px;
+    height: 40px;
+    width: 40px;
+    line-height: 42px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin: 0 2px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+.social-media_link:hover{
+  background-color:#1DA1F2 !important;
+  color: #fff;
+}
+ 
+
 
 @keyframes clippath {
 
@@ -338,6 +362,24 @@ body {
     width: 0.3rem;
     height: 0.07rem;
   }
+
+  .social-media_link {
+    color: #fff;
+    font-size: 14px;
+    height: 35px;
+    width: 35px;
+    line-height: 37px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin: 0 2px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
 
   @keyframes clippath {
 
