@@ -1,1 +1,1 @@
-# hpdex.org
+# AI DEX home page
